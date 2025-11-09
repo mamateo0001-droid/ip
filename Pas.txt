@@ -1,17 +1,3 @@
-King!
-King@
-King#
-King$
-King%
-King!@
-King!@#
-King!@#$
-King!@#$%
-King1!
-King!1
-King12!@
-King123!@#
-King1234!@#$
 Setup!
 Setup@
 Setup#
@@ -35161,3 +35147,4 @@ Apple#9999
 -------------
 github : python-fa
 Website : python-fa.github.io
+
