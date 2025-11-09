@@ -1,10 +1,1 @@
 root
-admin
-guest
-user
-dev
-tester
-backup
-www-data
-ftp
-EOF
